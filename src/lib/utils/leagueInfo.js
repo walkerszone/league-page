@@ -10,6 +10,7 @@ export const homepageText = `
   <p>Started as an inside joke in 2021, the Target Walm Fantasy League has grown into a massive online community of football nerds competing with each other.</p>
   <p>The league started out as a 10 team ESPN format, where 7 teams made the inaugural playoffs. The first 2 seasons would be in a redraft format, where the Fighting Walms took down the Shuttlecocks to claim the first ever Walm Bowl in Atlanta.</p>
   <p>4 new teams were added for the second season, where the Shuttlecocks were finally able to finish the job, defeating the State Punters in the second Walm Bowl.</p>
+  <p>For the third year, the league finally switched to a dynasty format, adding in 2 more teams. This website is an archive of the new era of the TWFL, the dynasty era.</p>
 `;
 
 /*   STEP 3   */
